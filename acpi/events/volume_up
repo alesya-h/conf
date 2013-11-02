@@ -1,0 +1,2 @@
+event=button/volumeup VOLUP 00000080 00000000
+action=/etc/acpi/actions/volume-control.sh up

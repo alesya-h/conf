@@ -1,0 +1,2 @@
+event=battery/* PNP0C0A:00 00000080 00000001
+action=/etc/acpi/actions/critical-battery.sh
